@@ -21,9 +21,9 @@ br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U
 
 print """
 ##Logo##
-    _          _                                                           \        /                                                           __\______/__
-    | [©]  [©] |​
-    |  [====]  | [+] DARK_MIND HACKER  [+]
+ _          _                                                           \        /                                                           __\______/__
+ | [©]  [©] |​
+ |  [====]  | [+] DARK_MIND HACKER  [+]
 ╔══o00════════00o═════════════════════════╗
 █  [•] Author:DARK_DEVIL                  █
 █  [•] Faceboook:darkhacker07             █
@@ -31,7 +31,7 @@ print """
 █  [•] Youtube:UCXItn4AnlxExhW0virHuD3Q   █
 █  [•] Version:0.3                        █
 ╚═════════════════════════════════════════╝
-
+"""
 def ceknet():
     try:
     	os.system('reset')
