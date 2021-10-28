@@ -74,11 +74,11 @@ logo = """
 \033[1;91m    | [©]  [©] |​
 \033[1;92m    |  [====]  | [+] DARK_MIND HACKER  [+]
 \033[1;92m╔══0═══0═════00o═══════════════════════════╗  
-\033[1;91m█ ✯AUTHOR: Mr. NIKI                     █  
-\033[1;91m█ ✯YOUTUBE: UCXItn4AnlxExhW0virHuD3Q    █  
-\033[1;91m█ ✯FACEBOKK: darkhacker07               █  
-\033[1;91m█ ✯WHATSAPP: 1875529351                 █   
-\033[1;91m█ ✯GITHUB: mrperfect0056                █  
+\033[1;91m█✯AUTHOR : Dark_Devil                  █  
+\033[1;91m█✯YOUTUBE: UCXItn4AnlxExhW0virHuD3Q    █  
+\033[1;91m█✯FACEBOK: darkhacker07                █  
+\033[1;91m█✯WHATSap: 1875529351                  █   
+\033[1;91m█✯GITHUB : mrperfect0056               █
 \033[1;92m╚══0═══0═════00o═══════════════════════════╝   
 """
 
